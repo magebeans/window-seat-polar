@@ -1,0 +1,54 @@
+{
+  "flight": "QR720 polar",
+  "_departure_note": "2026-11-21 actual: wheels-up 16:18 PST (FR24), est. gate arrival DOH 17:41 (+1); route = great circle (live track heading due north, matches seatback map)",
+  "departure": "2026-11-21T15:58:00-08:00",
+  "block_minutes": 883,
+  "taxi_out_minutes": 20,
+  "taxi_in_minutes": 10,
+  "climb_minutes": 25,
+  "descent_minutes": 30,
+  "origin": {
+    "iata": "SEA",
+    "name": "Seattle-Tacoma International",
+    "lat": 47.449,
+    "lon": -122.3093
+  },
+  "destination": {
+    "iata": "DOH",
+    "name": "Hamad International",
+    "lat": 25.2731,
+    "lon": 51.6081
+  },
+  "corridor_km": 300,
+  "max_corridor_km": 900,
+  "segment_km": 250,
+  "zoom": {
+    "_note": "maxzoom per corridor segment, chosen by daylight (sun at the segment while you pass it) and land fraction",
+    "world": 4,
+    "wide": 6,
+    "wide_km": 1200,
+    "day_land": 10,
+    "twilight_land": 10,
+    "night_land": 9,
+    "day_water": 7,
+    "night_water": 6,
+    "airport": 11,
+    "airport_radius_km": 40,
+    "water_threshold": 0.85
+  },
+  "zoom_overrides": {},
+  "budget_mb": 130,
+  "protomaps_build": "latest",
+  "pois": {
+    "min_sitelinks": 6,
+    "rank_by": "length",
+    "min_views": 300,
+    "min_length": 3000,
+    "_min_views_note": "English Wikipedia page views over 60 days; below this a feature is too obscure to list",
+    "per_100km": 14,
+    "max_total": 5000,
+    "summary_chars": 900,
+    "chunk_km": 600
+  },
+  "_budget_note": "local (Traefik) deploy; GitHub Pages caps a site at 1 GB"
+}
