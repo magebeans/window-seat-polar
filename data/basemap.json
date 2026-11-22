@@ -1,0 +1,148 @@
+{
+ "url": "data/basemap.pmtiles",
+ "size": 116376511,
+ "chunkSize": 4194304,
+ "tag": "03ef298f34",
+ "parts": [
+  {
+   "url": "data/tiles/03ef298f34/p00000.bin",
+   "size": 4194304,
+   "sha256": "3b9def583e4cc94d178e6f887927a62820b0e2177eaa0be7f08288343ba81fd3"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00001.bin",
+   "size": 4194304,
+   "sha256": "4ea56e15ce91eb92d298029e2ed6b10b9eacbdfc3a8deaf07be9b0676ca1f411"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00002.bin",
+   "size": 4194304,
+   "sha256": "ba24163cfc1107d1be555b9cb4631cfbb25b84cb0e115fef8e3c71e429c1ae4a"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00003.bin",
+   "size": 4194304,
+   "sha256": "4169e8e6aa039672b55b8e76a045711675ff6cc28b9804ea24714947137e279f"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00004.bin",
+   "size": 4194304,
+   "sha256": "c9badc6438305dbbd9211a08026eb9355acd1bd27ba89dcda0d38f13517831cf"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00005.bin",
+   "size": 4194304,
+   "sha256": "566dfa3854663c2c35fba692ad57635f0ddc3c65b68a5d45dbcc66c0acaa6bca"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00006.bin",
+   "size": 4194304,
+   "sha256": "dfc1ae2d1fed91fa54a2072fb643656cda53dd0fb6b0f8f485aaeca0afeb5bbd"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00007.bin",
+   "size": 4194304,
+   "sha256": "95ad4e7656b6a6b8e6aaba064ab73a19075dc7c4da58383034d2f0ed2651ec38"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00008.bin",
+   "size": 4194304,
+   "sha256": "2de5f0f9f4daed6b1e1328708d4a99de57fd518553691544120f285db06a8cf8"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00009.bin",
+   "size": 4194304,
+   "sha256": "92194787ab87458d088695a887ce3c3fd90334b23b52a4decb093434d68aeea5"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00010.bin",
+   "size": 4194304,
+   "sha256": "498a266e8657ae0b64015459f60f1727e9c5c653eaf8d040c168815173a0193c"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00011.bin",
+   "size": 4194304,
+   "sha256": "24b3c155f6fd22e48f893405c2e83f6de392979bf6c97190a531b6fb82609516"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00012.bin",
+   "size": 4194304,
+   "sha256": "e05913b64e32b341c728e6a3e677c6adbe5b6c394fb09c5e35178611d1236338"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00013.bin",
+   "size": 4194304,
+   "sha256": "79bf072d169fa766db1078ec38beabd15bb64b9a42dce26fb8f9333be1c44fd3"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00014.bin",
+   "size": 4194304,
+   "sha256": "9cbd5ec93a192f23fcc561865654c90a0e115782437cdc00fe78ebbe0664ac4b"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00015.bin",
+   "size": 4194304,
+   "sha256": "7682b36921d10381a8bfdf1451044c7c2af75a6bc7d60c9907f7be3df6a41b80"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00016.bin",
+   "size": 4194304,
+   "sha256": "20bad429ec5f4c9c4421cab0890b72303e862319b77b84543ea9f14248bfc8c6"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00017.bin",
+   "size": 4194304,
+   "sha256": "90233af815a15fb4aeb2b0f5f9c6a6392da08453ad21bad8fbd1f79f0255f5c3"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00018.bin",
+   "size": 4194304,
+   "sha256": "5c25f4db5c19bc30f60e67a15434138fba5070e866884a822bcbd24b19f766a4"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00019.bin",
+   "size": 4194304,
+   "sha256": "b607438c7496df18888c8a52ff8bc297b24e5dd59fb21ccd3ae5b8e23cdd3e7f"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00020.bin",
+   "size": 4194304,
+   "sha256": "f7345ab60fbac2fdb90929063a1cbd2cb5e1661adc991ed939c17b01c92b4533"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00021.bin",
+   "size": 4194304,
+   "sha256": "4e08116bb756e5662863c1107748b16bfc6f832d91783fcfaa4b9b140d9a9bf9"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00022.bin",
+   "size": 4194304,
+   "sha256": "342263ef9ead7dd40429ef89c9bdf9853e19aaed88dacf4fc40b38ee49090d8a"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00023.bin",
+   "size": 4194304,
+   "sha256": "8a429d3122efd905d035548fd2eee0c3fc1cd5c86f9461db175df55435532d02"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00024.bin",
+   "size": 4194304,
+   "sha256": "d89080e068e7daf53b2e873bdc2922fe1cb9716a919744064bbb3df1ea6c48fd"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00025.bin",
+   "size": 4194304,
+   "sha256": "5250fe5f63758b2a5fb9277aa9792f1b01a3579adb3b25064fc8c8c9954ad09e"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00026.bin",
+   "size": 4194304,
+   "sha256": "cd658c5a97288244355e4be13f9840dd939b91d264f1e2c2e89509a445e64fc7"
+  },
+  {
+   "url": "data/tiles/03ef298f34/p00027.bin",
+   "size": 3130303,
+   "sha256": "b26ec74c2f803ade9072358a9cc06211918632db335b740d796c65327a361e7b"
+  }
+ ]
+}
